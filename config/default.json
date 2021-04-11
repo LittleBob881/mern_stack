@@ -1,0 +1,4 @@
+{
+    "mongoURI":
+      "mongodb+srv://Robert:Pobert@mernstack.58gra.mongodb.net/MERNStack?retryWrites=true&w=majority&authSource=admin"
+  }
